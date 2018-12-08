@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https//ngfar.io/vract/precache-manifest.933b88b51a80c00c1e33392b52f4b33c.js"
+  "//ngfar.io/vract/precache-manifest.a49819bf221a1ae963b1472808160458.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https//ngfar.io/vract/index.html", {
+workbox.routing.registerNavigationRoute("//ngfar.io/vract/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
