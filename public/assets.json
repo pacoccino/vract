@@ -4,13 +4,15 @@
     "type": "video",
     "path": "vid.mp4",
     "thumbnail": "vid.jpg",
-    "description": "Ouais c'est super allez viens jouer avec moi. J'ai des bonbons."
+    "description": "Ouais c'est super allez viens jouer avec moi. J'ai des bonbons.",
+    "url": "http://localhost:8081"
   },
   {
     "name": "coucou",
     "type": "video",
     "path": "vid.mp4",
     "thumbnail": "vid.jpg",
-    "description": "Bnjour alors ici c'est different y'a de la tartiflette et des cornichons. Ramenez du camembert."
+    "description": "Bnjour alors ici c'est different y'a de la tartiflette et des cornichons. Ramenez du camembert.",
+    "url": "http://localhost:8081"
   }
 ]

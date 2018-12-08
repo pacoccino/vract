@@ -23,9 +23,13 @@ class AssetList extends Component {
     this.fetchAssets().catch(console.error);
   }
 
+  openAsset(asset) {
+    window.open(asset.url,'_blank');
+  }
+
   assetLine(asset) {
     return (
-      <div className="asset">
+      <div className="asset" onClick={() => this.openAsset(asset)}>
         <div className="asset_thumbnail">
           <img src={`media/${asset.thumbnail}`} className="asset_img" alt={asset.name} />
         </div>
