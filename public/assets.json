@@ -2,17 +2,15 @@
   {
     "name": "trip360",
     "type": "video",
-    "path": "vid.mp4",
     "thumbnail": "vid.jpg",
     "description": "Ouais c'est super allez viens jouer avec moi. J'ai des bonbons.",
-    "url": "http://localhost:8081"
+    "url": "https://appvr-vnmvnxzfwk.now.sh "
   },
   {
     "name": "coucou",
     "type": "video",
-    "path": "vid.mp4",
     "thumbnail": "vid.jpg",
-    "description": "Bnjour alors ici c'est different y'a de la tartiflette et des cornichons. Ramenez du camembert.",
-    "url": "http://localhost:8081"
+    "description": "Bonjour alors ici c'est different y'a de la tartiflette et des cornichons. Ramenez du camembert.",
+    "url": "https://appvr-vnmvnxzfwk.now.sh"
   }
 ]

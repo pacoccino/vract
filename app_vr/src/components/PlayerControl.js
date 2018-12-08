@@ -69,7 +69,6 @@ export default class PlayerControl extends React.Component {
 const styles = StyleSheet.create({
   container: {
     // Fill the entire surface
-    marginTop: 2000,
     width: 1000,
     height: 600,
     backgroundColor: '#f0f0f000',

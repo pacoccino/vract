@@ -2,6 +2,7 @@
 // If you want to modify your application's content, start in "index.js"
 
 import {ReactInstance} from 'react-360-web';
+import Scene from './src/scene';
 
 function init(bundle, parent, options = {}) {
   const r360 = new ReactInstance(bundle, parent, {
@@ -19,15 +20,8 @@ function init(bundle, parent, options = {}) {
   // Load the initial environment
   r360.compositor.setBackground(r360.getAssetURL('360_world.jpg'));
 
-  const assetURL = r360.getAssetURL('vid.mp4');
-  const player = r360.compositor.createVideoPlayer('myplayer');
-  // Set the video to be played, and its format
-  player.setSource(assetURL, '2D');
-  player.setLoop(true);
-
-  r360.compositor.setBackgroundVideo('myplayer');
-  player.play();
-
+  const scene = new Scene(r360);
+  scene.init();
 
 }
 
