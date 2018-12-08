@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.44e81469.chunk.css",
-  "main.js": "/static/js/main.ed39a6a4.chunk.js",
-  "main.js.map": "/static/js/main.ed39a6a4.chunk.js.map",
-  "static/js/1.35f54166.chunk.js": "/static/js/1.35f54166.chunk.js",
-  "static/js/1.35f54166.chunk.js.map": "/static/js/1.35f54166.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.44e81469.chunk.css.map": "/static/css/main.44e81469.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.5fb300130f6001d8147310d1b676daa6.js": "/precache-manifest.5fb300130f6001d8147310d1b676daa6.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "ngfar.io/vract/static/css/main.44e81469.chunk.css",
+  "main.js": "ngfar.io/vract/static/js/main.fd16ec14.chunk.js",
+  "main.js.map": "ngfar.io/vract/static/js/main.fd16ec14.chunk.js.map",
+  "static/js/1.35f54166.chunk.js": "ngfar.io/vract/static/js/1.35f54166.chunk.js",
+  "static/js/1.35f54166.chunk.js.map": "ngfar.io/vract/static/js/1.35f54166.chunk.js.map",
+  "runtime~main.js": "ngfar.io/vract/static/js/runtime~main.5db1a854.js",
+  "runtime~main.js.map": "ngfar.io/vract/static/js/runtime~main.5db1a854.js.map",
+  "static/media/logo.svg": "ngfar.io/vract/static/media/logo.5d5d9eef.svg",
+  "static/css/main.44e81469.chunk.css.map": "ngfar.io/vract/static/css/main.44e81469.chunk.css.map",
+  "index.html": "ngfar.io/vract/index.html",
+  "precache-manifest.cce4d8f0d0c2906583a085a02e554185.js": "ngfar.io/vract/precache-manifest.cce4d8f0d0c2906583a085a02e554185.js",
+  "service-worker.js": "ngfar.io/vract/service-worker.js"
 }
