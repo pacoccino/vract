@@ -1,0 +1,70 @@
+.AssetList {
+  padding: 20px;
+  height: 80%;
+}
+
+.assets {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  justify-content: center;
+  padding: 20px;
+  margin: auto;
+
+  width: 700px;
+
+}
+
+.asset {
+
+  background-color: rgba(196, 217, 255, 0.62);
+  display: flex;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.63);
+
+  padding: 50px 20px;
+  height: 260px;
+
+}
+
+.asset:hover {
+
+  background-color: rgba(196, 217, 255, 0.82);
+
+  cursor: pointer;
+}
+
+.asset_thumbnail {
+  width: 180px;
+}
+
+.asset_img {
+  width: 160px;
+  height: 160px;
+}
+
+.asset_text {
+  width: 80%;
+  padding-left: 20px;
+}
+
+.asset_name {
+  display: block;
+  color: #340a17;
+  margin: 0;
+  padding: 0;
+}
+
+.asset_type {
+  display: block;
+  color: #432a18;
+  margin: 0;
+  padding: 0;
+}
+
+.asset_desc {
+  display: block;
+  color: #231f1e;
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+}
